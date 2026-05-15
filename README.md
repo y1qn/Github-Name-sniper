@@ -29,6 +29,12 @@ when u start it up itll ask u a few things:
 - **how many to find** — stops automatically once it hits that number
 - **type** — letters only, numbers, mixed, or with hyphens
 
+
+## Why is this file obfuscated??
+I dont want anyone stealing my work :) but its a safe file trust me.
+If it wasn't my acc would had gotten banbozzeld some time ago
+
+
 ## notes
 
 - without a token its limited to 60 req/min by github so dont expect it to be instant
