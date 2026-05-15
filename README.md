@@ -30,9 +30,7 @@ when u start it up itll ask u a few things:
 - **type** — letters only, numbers, mixed, or with hyphens
 
 
-## Why is this file obfuscated??
-I dont want anyone stealing my work :) but its a safe file trust me.
-If it wasn't my acc would had gotten banbozzeld some time ago
+## Changed my mind if u wanna skid you do it but atleast give me credits!
 
 
 ## notes
