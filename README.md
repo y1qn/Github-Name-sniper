@@ -18,7 +18,7 @@ you need python 3.8+, everything else installs itself when u launch it
 py epsteins_github_sniper.py
 ```
 
-or just run the `.bat` if ur on windows
+We removed .bat file because it wasn't working properly.
 
 ## options
 
